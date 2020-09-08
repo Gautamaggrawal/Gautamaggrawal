@@ -17,15 +17,8 @@
 - 🔭 I’m currently working on A lot of Private Repos.
 - 🌱 I’m currently learning new Technologies.
 - 💬 Ask me about Django or any tech related stuff.
-- ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
-
-<!-- - 😄 Pronouns: ... -->
-- 📫 How to reach me: [email](gautamaggrawalmzn@gmail.com)
-   [Linkedin](https://www.linkedin.com/in/gautamaggrawalmzn/) 
-<!-- - 😄 Pronouns: ... -->
-- ⚡ Fun fact: Can surf websites and tech stuffs for hours 😅😁 , 
-   Loves talk on tech 😄💻.
-
+- ⚡ Fun fact: Can surf websites and tech stuffs for hours 😅😁 , Loves talk on tech 😄💻.
+- 📫 How to reach me: [email](gautamaggrawalmzn@gmail.com) 
 
 **Languages and Tools:**  
 
@@ -50,7 +43,9 @@
 <a href="https://github.com/Gautamaggrawal">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gautamaggrawal&show_icons=true&theme=dracula&line_height=27" alt="Gautam's github stats"/>
 </a>
-<img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="400px" />
+<a href="https://github.com/Gautamaggrawal">
+ <img align="center" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" alt="Gautam's github stats"/>
+</a>
 
 
 
