@@ -6,7 +6,8 @@
 <a href="https://github.com/Gautamaggrawal">
   <img align="left" alt="Gautam's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-https://camo.githubusercontent.com/6fb5a93c96cf4e8221b35b83a94c61c370beffad/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d746172756e6a61696e317374266c6162656c3d566965777326636f6c6f723d627269676874677265656e267374796c653d706c6173746963
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Gautamaggrawal&label=Views&color=brightgreen&style=plastic" alt="Gautamaggrawal" /> </p>
+
 <br/>
 <br/>
 
