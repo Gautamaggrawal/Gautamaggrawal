@@ -43,9 +43,6 @@
 <a href="https://github.com/Gautamaggrawal">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gautamaggrawal&show_icons=true&theme=dracula&line_height=27" alt="Gautam's github stats"/>
 </a>
-<a href="https://github.com/Gautamaggrawal">
- <img align="center" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" alt="Gautam's github stats"/>
-</a>
 
 
 
