@@ -7,8 +7,6 @@
   <img align="left" alt="Gautam's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Gautamaggrawal&label=Views&color=brightgreen&style=plastic" alt="Gautamaggrawal" /> </p>
-
-<br/>
 <br/>
 
  [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Gautamaggrawal) 
