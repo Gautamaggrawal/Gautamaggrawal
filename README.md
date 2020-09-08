@@ -1,4 +1,4 @@
-## Hola, I'm [Gautam Aggrawal!]() 👋
+## Hola, I'm [Gautam Aggrawal!]()<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
 
 <a href="https://www.linkedin.com/in/gautamaggrawalmzn/">
   <img align="left" alt="Gautam's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -26,6 +26,7 @@
 - ⚡ Fun fact: Can surf websites and tech stuffs for hours 😅😁 , 
    Loves talk on tech 😄💻.
 
+<img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="400px" />
 
 
 **Languages and Tools:**  
