@@ -26,8 +26,6 @@
 - ⚡ Fun fact: Can surf websites and tech stuffs for hours 😅😁 , 
    Loves talk on tech 😄💻.
 
-<img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="400px" />
-
 
 **Languages and Tools:**  
 
@@ -49,9 +47,10 @@
 <a href="https://github.com/Gautamaggrawal">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gautamaggrawal&theme=dark" />
 </a>
-<a href="https://github.com/prkhrv">
+<a href="https://github.com/Gautamaggrawal">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gautamaggrawal&show_icons=true&theme=dracula&line_height=27" alt="Gautam's github stats"/>
 </a>
+<img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="400px" />
 
 
 
