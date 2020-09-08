@@ -33,6 +33,11 @@
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://icongr.am/devicon/c-original.svg"></code>
+<code><img height="20" src="https://icongr.am/devicon/linux-original.svg"></code>
+<code><img height="20" src="https://icongr.am/devicon/cplusplus-original.svg"></code>
+<code><img height="20" src="https://icongr.am/devicon/mysql-original-wordmark.svg"></code>
+<code><img height="20" src="https://icongr.am/devicon/git-original-wordmark.svg"></code>
+<code><img height="20" src="https://icongr.am/devicon/cplusplus-original.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
