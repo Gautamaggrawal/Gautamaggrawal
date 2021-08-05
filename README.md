@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on A lot of Private Repos.
 - 🌱 I’m currently learning new Technologies.
-- 💬 Ask me about Django or any tech related stuff.
+- 💬 Ask me about tech related stuff.
 - ⚡ Fun fact: Can surf websites and tech stuffs for hours 😅😁 , Loves talk on tech 😄💻.
 - 📫 How to reach me: [email](gautamaggrawalmzn@gmail.com) 
 
